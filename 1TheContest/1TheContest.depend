@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647544365 source:d:\projects\c&c++\1thecontest\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639165872 source:d:\projects\c\calc by swich\main.c
+	<stdio.h>
+	<stdlib.h>
+

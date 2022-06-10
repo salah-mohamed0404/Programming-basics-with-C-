@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640070635 source:d:\projects\c\fcube\main.c
+	<stdio.h>
+	<stdlib.h>
+
